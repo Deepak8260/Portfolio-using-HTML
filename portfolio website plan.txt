@@ -1,0 +1,40 @@
+1. Home Page
+  -navbar
+    - Home
+    -Contact
+    -resume
+
+  -Intro
+    -Heading
+    -image
+    -About me
+
+  -Projects
+
+  -Skills
+    -list all my skills
+
+  -footer
+    -Home
+    -Contact
+    -Social
+
+
+2. Contact us
+   -navbar
+    - Home
+    -Contact
+    -resume
+
+   -Contact me
+     -first name
+     -last name
+     -email
+     -phone
+     -submit
+
+   -social link
+    -linkedin
+    -GitHub
+
+   -embed map
