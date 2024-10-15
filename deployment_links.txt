@@ -1,0 +1,7 @@
+Below are the deployment links of this portfolio
+
+GitHub Pages- https://deepak8260.github.io/Portfolio-using-HTML/
+
+Netlify - https://kumaraiportfolio.netlify.app/
+
+Versel - https://kumaraiportfolio.vercel.app/
